@@ -83,10 +83,11 @@ Push to branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 # Ram Bhatt
-📧 Email: the.ram.bhatt@gmail.com
-🔗 Portfolio: the-ram-bhatt.vercel.app
-💼 LinkedIn: linkedin.com/in/ram-bhatt
-🐙 Project Link: Gyan_Yatra-Backend
+
+📧 Email: the.ram.bhatt@gmail.com <br>
+🔗 Portfolio: <a href="https://the-ram-bhatt.vercel.app" target="_blank">the-ram-bhatt.vercel.app</a> <br>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/ram-bhatt-12390a253/" target="_blank">linkedin.com/in/ram-bhatt</a> <br>
+🐙 Project Link: <a href="https://github.com/Ram-Bhatt08/Gyan_Yatra-Backend" target="_blank">Gyan_Yatra-Backend</a> <br>
